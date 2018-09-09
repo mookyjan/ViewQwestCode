@@ -23,8 +23,8 @@ utility classes required for day to day programming.
 
 some screenshots of the code soultions are given below.
 
-![alt text](https://github.com/mookyjan/ViewQwestCode/blob/master/screenshots/1.png)
+![alt text](https://github.com/mookyjan/ViewQwestCode/blob/master/screenshots/Screenshot_2018-09-10-01-30-37.png)
 
-![alt text](https://github.com/mookyjan/ViewQwestCode/blob/master/screenshots/2.png)
+![alt text](https://github.com/mookyjan/ViewQwestCode/blob/master/screenshots/Screenshot_2018-09-10-01-31-06.png)
 
-![alt text](https://github.com/mookyjan/ViewQwestCode/blob/master/screenshots/3.png)
+![alt text](https://github.com/mookyjan/ViewQwestCode/blob/master/screenshots/Screenshot_2018-09-10-01-31-27.png)
